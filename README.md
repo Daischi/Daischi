@@ -16,6 +16,9 @@
  
  ##
  
+<div align="right">
+  <img align="right" width=20% src="https://i.pinimg.com/originals/0b/7a/cc/0b7acc43ae7c3a5ae35654fdf1b9bc4b.gif" alt="">
+</div>
 
 
 ### 🛠️ **Some tools and tech i use** 👨🏾‍💻
@@ -47,6 +50,8 @@
           
 </div>
 
+
+
 ### ✉️ **Contact**
 
 <div align="left">
@@ -55,15 +60,9 @@
 <a href="https://www.linkedin.com/in/guilherme-poppi-b436b1266/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-<div align="right">
-  <img align="right" height="300px" src="https://i.pinimg.com/originals/2f/75/ba/2f75ba024233714bb12c7f54e6b4bc72.gif" alt="">
-</div>
 
-### 📄 **Thanks**
 
-<div align="left">
-  <img align="left" width=20% src="https://i.pinimg.com/originals/0b/7a/cc/0b7acc43ae7c3a5ae35654fdf1b9bc4b.gif" alt="">
-</div>
+
 
 
 
